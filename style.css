@@ -1,0 +1,59 @@
+ body {
+background-color: #fafd4ff0;
+}
+
+h1 {
+  text-transform: capitalize;
+  font-size: 4rem;
+  text-align: center;
+  color:#ca5515;
+}
+
+h2 {
+  text-transform: lowercase;  
+  font-size: 2rem;
+  text-align: center;
+  color: #ca5515;
+  border-radius: 10px;
+  font-family: "Libre Baskerville", serif; 
+}
+
+ .creative-img {
+  display: block;
+  width: 5%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 4rem;
+}
+
+.creative-img { 
+  border: 5px solid #98a207f0;
+  width: 50%;
+}
+
+h3 {
+  font-size: 1rem;
+  text-align: center;
+  color:#ca5515;
+  font-family: "Libre Baskerville", serif; 
+  margin: 20px auto; /* Adds space around the paragraph */
+  max-width: 800px; /* Limits the width for better readability */
+}
+
+h4 {
+  font-size: 1rem;
+  color:#ca5515;
+  text-align: center;
+  font-family: "Libre Baskerville", serif;
+  bottom: 0px; /*Positioning from the bottom */
+  width: 100%; /*Ensures footer spans the entire width */
+  background-color: #ffa93911; /* Footer background color */
+} 
+
+.picker-icon {
+    text-align: center;
+}
+
+nav {
+  text-align: center;
+}
